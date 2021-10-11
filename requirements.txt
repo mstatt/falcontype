@@ -3,5 +3,3 @@ numpy==1.18.5
 Keras==2.4.3
 opencv-python-headless
 tensorflow
-cupy-cuda90
-opencv 
