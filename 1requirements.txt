@@ -1,5 +1,6 @@
-tensorflow==2.6.0
 streamlit==0.71.0
 numpy==1.18.5
 Keras==2.4.3
 opencv_python==4.4.0.46
+gunicorn 
+tensorflow
