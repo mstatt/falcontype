@@ -1,11 +1,8 @@
-absl-py @ file:///C:/ci/absl-py_1623867339542/work
-aiohttp @ file:///C:/ci/aiohttp_1632750093640/work
 altair==4.1.0
 argon2-cffi==21.1.0
 astor==0.8.1
 astunparse==1.6.3
 async-timeout==3.0.1
-attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
 backcall==0.2.0
 backports.zoneinfo==0.2.1
 base58==2.1.0
@@ -14,18 +11,10 @@ blinker==1.4
 boto3==1.18.58
 botocore==1.21.58
 brotlipy==0.7.0
-cachetools @ file:///tmp/build/80754af9/cachetools_1619597386817/work
 certifi==2021.5.30
-cffi @ file:///C:/ci/cffi_1625831749120/work
-chardet @ file:///C:/ci/chardet_1607690654534/work
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
 clang==5.0
-click @ file:///tmp/build/80754af9/click_1621604852318/work
 colorama==0.4.4
-coverage @ file:///C:/ci/coverage_1614615074147/work
-cryptography @ file:///C:/ci/cryptography_1633520552480/work
 cycler==0.10.0
-Cython @ file:///C:/ci/cython_1626257071357/work
 debugpy==1.5.0
 decorator==5.1.0
 defusedxml==0.7.1
