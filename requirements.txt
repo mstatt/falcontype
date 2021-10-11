@@ -1,6 +1,144 @@
+absl-py @ file:///C:/ci/absl-py_1623867339542/work
+aiohttp @ file:///C:/ci/aiohttp_1632750093640/work
+altair==4.1.0
+argon2-cffi==21.1.0
+astor==0.8.1
+astunparse==1.6.3
+async-timeout==3.0.1
+attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
+backcall==0.2.0
+backports.zoneinfo==0.2.1
+base58==2.1.0
+bleach==4.1.0
+blinker==1.4
+boto3==1.18.58
+botocore==1.21.58
+brotlipy==0.7.0
+cachetools @ file:///tmp/build/80754af9/cachetools_1619597386817/work
+certifi==2021.5.30
+cffi @ file:///C:/ci/cffi_1625831749120/work
+chardet @ file:///C:/ci/chardet_1607690654534/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+clang==5.0
+click @ file:///tmp/build/80754af9/click_1621604852318/work
+colorama==0.4.4
+coverage @ file:///C:/ci/coverage_1614615074147/work
+cryptography @ file:///C:/ci/cryptography_1633520552480/work
+cycler==0.10.0
+Cython @ file:///C:/ci/cython_1626257071357/work
+debugpy==1.5.0
+decorator==5.1.0
+defusedxml==0.7.1
+docopt==0.6.2
+entrypoints==0.3
+enum-compat==0.0.3
+flatbuffers==1.12
+gast @ file:///Users/ktietz/demo/mc3/conda-bld/gast_1628588903283/work
+gitdb==4.0.7
+GitPython==3.1.24
+google-auth @ file:///tmp/build/80754af9/google-auth_1626320605116/work
+google-auth-oauthlib @ file:///tmp/build/80754af9/google-auth-oauthlib_1617120569401/work
+google-pasta @ file:///Users/ktietz/demo/mc3/conda-bld/google-pasta_1630577991354/work
+grpcio==1.41.0
+h5py==3.1.0
+idna @ file:///tmp/build/80754af9/idna_1622654382723/work
+importlib-metadata @ file:///C:/ci/importlib-metadata_1631916848487/work
+ipykernel==6.4.1
+ipython==7.28.0
+ipython-genutils==0.2.0
+ipywidgets==7.6.5
+jedi==0.18.0
+Jinja2==3.0.2
+jmespath==0.10.0
+jsonschema==4.1.0
+jupyter-client==7.0.6
+jupyter-core==4.8.1
+jupyterlab-pygments==0.1.2
+jupyterlab-widgets==1.0.2
+keras==2.6.0
+Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
+Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
+kiwisolver==1.3.2
+Markdown @ file:///C:/ci/markdown_1614364121613/work
+MarkupSafe==2.0.1
+matplotlib==3.4.3
+matplotlib-inline==0.1.3
+mistune==0.8.4
+mkl-fft==1.3.0
+mkl-random @ file:///C:/ci/mkl_random_1626186184278/work
+mkl-service==2.4.0
+multidict @ file:///C:/ci/multidict_1607362065515/work
+nbclient==0.5.4
+nbconvert==6.2.0
+nbformat==5.1.3
+nest-asyncio==1.5.1
+notebook==6.4.4
+numpy==1.19.5
+oauthlib @ file:///tmp/build/80754af9/oauthlib_1623060228408/work
+opencv-python==4.4.0.46
+opt-einsum @ file:///tmp/build/80754af9/opt_einsum_1621500238896/work
+packaging==21.0
+pandas==1.3.3
+pandocfilters==1.5.0
+parso==0.8.2
+pickleshare==0.7.5
+Pillow==8.3.2
+pipreqs==0.4.10
+prometheus-client==0.11.0
+prompt-toolkit==3.0.20
+protobuf==3.17.2
+pyarrow==5.0.0
+pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pydeck==0.7.0
+Pygments==2.10.0
+PyJWT @ file:///C:/ci/pyjwt_1619651841937/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+pyparsing==2.4.7
+pyreadline==2.1
+pyrsistent==0.18.0
+PySocks @ file:///C:/ci/pysocks_1605287845585/work
+python-dateutil==2.8.2
+pytz==2021.3
+pywin32==301
+pywinpty==1.1.4
+PyYAML==5.4.1
+pyzmq==22.3.0
+requests @ file:///tmp/build/80754af9/requests_1629994808627/work
+requests-oauthlib==1.3.0
+rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
+s3transfer==0.5.0
+scipy @ file:///C:/ci/scipy_1630606942584/work
+Send2Trash==1.8.0
+six==1.15.0
+smmap==4.0.0
 streamlit==0.71.0
-numpy==1.18.5
-Keras==2.4.3
-opencv_python==4.4.0.46
-gunicorn 
-tensorflow
+tensorboard==2.6.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.0
+tensorflow==2.6.0
+tensorflow-estimator==2.6.0
+termcolor==1.1.0
+terminado==0.12.1
+testpath==0.5.0
+toml==0.10.2
+toolz==0.11.1
+tornado==6.1
+traitlets==5.1.0
+typing-extensions==3.7.4.3
+tzdata==2021.2.post0
+tzlocal==3.0
+urllib3==1.26.7
+validators==0.18.2
+watchdog==2.1.6
+wcwidth==0.2.5
+webencodings==0.5.1
+Werkzeug @ file:///tmp/build/80754af9/werkzeug_1631818832573/work
+widgetsnbextension==3.5.1
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
+wincertstore==0.2
+wrapt==1.12.1
+yarg==0.1.9
+yarl @ file:///C:/ci/yarl_1606940076464/work
+zipp @ file:///tmp/build/80754af9/zipp_1633618647012/work
