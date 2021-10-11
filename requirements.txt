@@ -1,5 +1,0 @@
-streamlit
-numpy
-Keras
-opencv_python
-tensorflow
