@@ -12,7 +12,7 @@ from keras.models import load_model
 model = load_model('falcon_types.h5')
 
 #Name of Classes
-CLASS_NAMES = ['Gyr', 'Peregrine', 'Saker']
+CLASS_NAMES = ['Gyr', 'Saker', 'Peregrine']
 
 #Setting Title of App
 st.title("Falcon Type Prediction")
