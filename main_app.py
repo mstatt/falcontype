@@ -12,7 +12,7 @@ from keras.models import load_model
 model = load_model('falcon_types.h5')
 
 #Name of Classes
-CLASS_NAMES = ['Gyr', 'Saker', 'Peregrine']
+CLASS_NAMES = ['Gyr-Saker',  'Peregrine', 'Saker']
 
 #Setting Title of App
 st.title("Falcon Type Prediction")
@@ -31,9 +31,9 @@ if submit:
         opencv_image = cv2.imdecode(file_bytes, 1)
         
         #Resizing the image
-        opencv_image = cv2.resize(opencv_image, (280,280))
+        opencv_image = cv2.resize(opencv_image, (400,400))
         #Convert image to 4 Dimension
-        opencv_image.shape = (1,280,280,3)
+        opencv_image.shape = (1,400,400,3)
         #Make Prediction
         predictions = model.predict(opencv_image)
         score = tf.nn.softmax(predictions[0])
